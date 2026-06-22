@@ -1,0 +1,6 @@
+{
+  "name": "Easy Finance",
+  "description": "Organizador de gastos mensais com gráficos interativos, controle de faturas de múltiplos cartões, lembretes de vencimento, simulador de integração bancária via Open Finance, importação inteligente por IA e backup seguro na nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
